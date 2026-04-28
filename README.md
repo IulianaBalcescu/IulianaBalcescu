@@ -203,7 +203,7 @@ I'm always interested in discussing new projects, sharing ideas, and collaborati
 
 [![GitHub](https://img.shields.io/badge/GitHub-IulianaBalcescu-181717?style=for-the-badge&logo=github)](https://github.com/IulianaBalcescu)
 [![Email](https://img.shields.io/badge/Email-balcescudenisa@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:balcescudenisa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[TODO%20Add%20profile]-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denisa-b%C4%83lcescu-b16231228/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balcescu Denisa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denisa-b%C4%83lcescu-b16231228/)
 
 </div>
 
