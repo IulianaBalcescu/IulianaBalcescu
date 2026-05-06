@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denisa!
+# 👋 Hi, I'm Iuliana!
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ## 💡 About Me
 
-Welcome to my GitHub! I'm **Denisa**, a software developer passionate about creating robust, user-friendly applications that solve real-world problems.
+Welcome to my GitHub! I'm **Iuliana**, a software developer passionate about creating robust, user-friendly applications that solve real-world problems.
 
 ### Background
 - 🎓 **Education**: Academy of Economic Studies (ASE), majoring in **Economic Informatics**
@@ -165,16 +165,6 @@ Machine Learning project that builds a Decision Tree Classifier to predict diabe
 
 ---
 
-### 📌 Other Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **PregaInterviu** | TODO: Add description | TODO: Identify tech | [View](https://github.com/IulianaBalcescu/PregaInterviu) |
-| **CTS 2023** | Design patterns & coursework | Java/OOP | [View](https://github.com/IulianaBalcescu/cts_2023) |
-| **Web Projects** | Academic web development assignments | HTML/CSS/JS | [View](https://github.com/IulianaBalcescu?tab=repositories) |
-
----
-
 ## 📊 Skills Overview
 
 <div align="center">
@@ -226,33 +216,6 @@ Python      █████░░░░░ 50% (Growing!)
 
 ---
 
-## 🎯 Future Roadmap
-
-<details>
-<summary><b>🚀 What's Next?</b></summary>
-
-### Short Term (Next 3-6 months)
-- [ ] **Deepen Python expertise** - Advanced concepts & frameworks
-- [ ] **Machine Learning projects** - Build 2-3 substantial ML projects
-- [ ] **Medical AI research** - Explore ML in healthcare applications
-- [ ] **Code contributions** - Participate in open-source initiatives
-
-### Medium Term (6-12 months)
-- [ ] **Medical Robotics exploration** - Understand applications of ML in surgical robotics
-- [ ] **Full-stack development** - Build complete web applications
-- [ ] **Advanced ML models** - Experiment with deep learning
-- [ ] **Portfolio enhancement** - Create impressive project showcase
-
-### Long Term (1+ years)
-- [ ] **Specialized expertise** - Become proficient in Medical Robotics + ML intersection
-- [ ] **Innovation** - Create novel solutions combining healthcare and AI
-- [ ] **Mentoring** - Share knowledge with junior developers
-- [ ] **Industry impact** - Contribute to cutting-edge healthcare technology
-
-</details>
-
----
-
 ## 🎓 Education & Specialization
 
 <div align="center">
@@ -285,18 +248,6 @@ Python      █████░░░░░ 50% (Growing!)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IulianaBalcescu&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IulianaBalcescu&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Connect with Me
 
 I'm always interested in discussing new projects, sharing ideas, and collaborating with fellow developers and researchers!
@@ -317,20 +268,8 @@ I'm always interested in discussing new projects, sharing ideas, and collaborati
 
 ### Let's build something amazing together! 🚀
 
-*"The best way to predict the future is to invent it."* — Alan Kay
-
-**Thanks for visiting my profile!** ⭐
-
-If you find my work interesting or my projects helpful, please consider giving them a ⭐
 
 </div>
 
 ---
 
-<div align="center">
-
-### 📝 Last Updated: May 2026
-
-**Questions or Suggestions?** Feel free to open an issue or reach out directly!
-
-</div>
