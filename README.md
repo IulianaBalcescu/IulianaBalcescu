@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denisa!
+# 👋 Hi, I'm Iuliana!
 
 <div align="center">
 
@@ -32,72 +32,6 @@ SQL Server • Git
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 **SDD - Data Structures**
-Comprehensive collection of fundamental implementations in C:
-- Linked Lists, BST, Stack & Queue
-- Complexity analysis & optimization
-
-[👉 View](https://github.com/IulianaBalcescu/SDD)
-
-</td>
-<td width="50%">
-
-### 📱 **ContactApp**
-Android contact management application:
-- Add, edit, delete contacts
-- Search & organization features
-- Local database storage
-
-[👉 View](https://github.com/IulianaBalcescu/ContactApp)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌾 **Farm Management System**
-C++ agricultural operations platform:
-- Crop monitoring & resource management
-- Predictive analytics & alerts
-- Advanced OOP & data structures
-
-[👉 View](https://github.com/IulianaBalcescu/GestiuneaCulturilorFermaAgricola)
-
-</td>
-<td width="50%">
-
-### 👥 **HR Management System**
-Enterprise HR application (C#, .NET):
-- Employee records & payroll
-- Performance evaluations
-- Schedule & attendance tracking
-
-[👉 View](https://github.com/IulianaBalcescu/gestiuneResurseUmane)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IulianaBalcescu&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IulianaBalcescu&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
