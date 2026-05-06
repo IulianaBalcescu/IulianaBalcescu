@@ -12,17 +12,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [Currently Learning](#currently-learning)
-- [Future Roadmap](#future-roadmap)
-- [Connect with Me](#connect-with-me)
-
----
-
 ## 💡 About Me
 
 Welcome to my GitHub! I'm **Iuliana**, a software developer passionate about creating robust, user-friendly applications that solve real-world problems.
